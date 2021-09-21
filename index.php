@@ -500,8 +500,8 @@
                     <a href="#">Interior Design</a>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    Integer adipiscing erat
+                  We are well experienced and creative interior designers and dedicated project coordinators
+                   to provide you with the best advice and service.
                   </p>
                 </div>
               </div>
