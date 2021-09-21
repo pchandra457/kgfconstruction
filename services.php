@@ -4,7 +4,7 @@
     <!-- Basic Page Needs
 ================================================== -->
     <meta charset="utf-8" />
-    <title>Constra - Construction Html5 Template</title>
+    <title>KGF Construction</title>
 
     <!-- Mobile Specific Metas
 ================================================== -->
@@ -102,12 +102,12 @@
                       diverse, forward thinking team looking for talent like.
                       Lorem ipsum dolor suscipit.
                     </p>
-                    <a
+                    <!-- <a
                       class="learn-more d-inline-block"
                       href="service-single.html"
                       aria-label="service-details"
                       ><i class="fa fa-caret-right"></i> Learn more</a
-                    >
+                    > -->
                   </div>
                 </div>
               </div>
@@ -142,12 +142,12 @@
                       diverse, forward thinking team looking for talent like.
                       Lorem ipsum dolor suscipit.
                     </p>
-                    <a
+                    <!-- <a
                       class="learn-more d-inline-block"
                       href="service-single.html"
                       aria-label="service-details"
                       ><i class="fa fa-caret-right"></i> Learn more</a
-                    >
+                    > -->
                   </div>
                 </div>
               </div>
@@ -182,12 +182,12 @@
                       diverse, forward thinking team looking for talent like.
                       Lorem ipsum dolor suscipit.
                     </p>
-                    <a
+                    <!-- <a
                       class="learn-more d-inline-block"
                       href="service-single.html"
                       aria-label="service-details"
                       ><i class="fa fa-caret-right"></i> Learn more</a
-                    >
+                    > -->
                   </div>
                 </div>
               </div>
@@ -222,12 +222,12 @@
                       diverse, forward thinking team looking for talent like.
                       Lorem ipsum dolor suscipit.
                     </p>
-                    <a
+                    <!-- <a
                       class="learn-more d-inline-block"
                       href="service-single.html"
                       aria-label="service-details"
                       ><i class="fa fa-caret-right"></i> Learn more</a
-                    >
+                    > -->
                   </div>
                 </div>
               </div>
@@ -262,12 +262,12 @@
                       diverse, forward thinking team looking for talent like.
                       Lorem ipsum dolor suscipit.
                     </p>
-                    <a
+                    <!-- <a
                       class="learn-more d-inline-block"
                       href="service-single.html"
                       aria-label="service-details"
                       ><i class="fa fa-caret-right"></i> Learn more</a
-                    >
+                    > -->
                   </div>
                 </div>
               </div>
@@ -302,12 +302,12 @@
                       diverse, forward thinking team looking for talent like.
                       Lorem ipsum dolor suscipit.
                     </p>
-                    <a
+                    <!-- <a
                       class="learn-more d-inline-block"
                       href="service-single.html"
                       aria-label="service-details"
                       ><i class="fa fa-caret-right"></i> Learn more</a
-                    >
+                    > -->
                   </div>
                 </div>
               </div>
