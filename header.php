@@ -1,14 +1,14 @@
 <header id="header" class="header-one">
         <div class="bg-white">
           <div class="container">
-            <div class="logo-area" style="padding: 15px 0;">
+            <div class="logo-area" style="padding: 10px;">
               <div class="row align-items-center">
                 <div
                   class="logo col-lg-3 text-center text-lg-left mb-3 mb-md-5 mb-lg-0"
                 >
                   <a class="d-block" href="index.php">
                     <img
-                      style="height: 50px"
+                      style="height: 70px"
                       loading="lazy"
                       src="images/logo.jpeg"
                       alt="Kgfconstruction"
@@ -35,7 +35,7 @@
                           <p class="info-box-title">Email Us</p>
                           <p class="info-box-subtitle">
                             <a href="mailto:kgfconstruction@gmail.com"
-                              >kgfconstruction@gmail.com</a
+                              >kgfconstruction1@gmail.com</a
                             >
                           </p>
                         </div>

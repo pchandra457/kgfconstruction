@@ -103,7 +103,7 @@
                 </span>
                 <div class="ts-service-box-content">
                   <h4>Email Us</h4>
-                  <p>kgfconstruction@gmail.com</p>
+                  <p>kgfconstruction1@gmail.com</p>
                 </div>
               </div>
             </div>
@@ -130,11 +130,11 @@
             <div class="mapouter">
               <div class="gmap_canvas">
                 <iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
-                src="https://maps.google.com/maps?width=1100&amp;height=472&amp;hl=en&amp;q=Sipara Bypass, 
+                src="https://maps.google.com/maps?width=100%&amp;height=472&amp;hl=en&amp;q=Sipara Bypass, 
                   Patna&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
                   <a href="https://www.fnfgo.com/">FNF</a></div><style>.mapouter{position:relative;text-align:
-                  right;width:1100px;height:472px;}.gmap_canvas {overflow:hidden;background:none!important;width:
-                  1100px;height:472px;}.gmap_iframe {width:1100px!important;height:472px!important;}</style>
+                  right;width:100%;height:472px;}.gmap_canvas {overflow:hidden;background:none!important;width:
+                  100%;height:472px;}.gmap_iframe {width:100%!important;height:472px!important;}</style>
                 </div>
           </div>
 
@@ -194,7 +194,7 @@
                     name="message"
                     id="message"
                     placeholder=""
-                    rows="10"
+                    rows="4"
                     required
                   ></textarea>
                 </div>

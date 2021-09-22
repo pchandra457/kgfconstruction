@@ -79,7 +79,7 @@
               <h3 class="column-title">Who We Are</h3>
               <p>
                 KGF Construction has been a multi - service architectural firm since its inception in 2017. Led by, 
-                Ar. ********* & his team this firm deals in the fields of architecture, interiors, landscape & product design.
+                <b>Ar. Neeladri Biswas </b> & his team this firm deals in the fields of architecture, interiors, landscape & product design.
               </p>
               <blockquote>
                 <p>
@@ -120,7 +120,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="217">0</span>
+                    <span class="counterUp" data-count="500">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Total Projects</h3>
                 </div>
@@ -137,7 +137,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="13">0</span>
+                    <span class="counterUp" data-count="5">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Staff Members</h3>
                 </div>
@@ -171,7 +171,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="1">0</span>
+                    <span class="counterUp" data-count="2">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Countries Experience</h3>
                 </div>

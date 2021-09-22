@@ -142,33 +142,6 @@
         </div>
       </div>
 
-      <section class="call-to-action-box no-padding">
-        <div class="container">
-          <div class="action-style-box">
-            <div class="row align-items-center">
-              <div class="col-md-8 text-center text-md-left">
-                <div class="call-to-action-text">
-                  <h3 class="action-title">
-                    We understand your needs on construction
-                  </h3>
-                </div>
-              </div>
-              <!-- Col end -->
-              <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
-                <div class="call-to-action-btn">
-                  <a class="btn btn-dark" href="#">Request Quote</a>
-                </div>
-              </div>
-              <!-- col end -->
-            </div>
-            <!-- row end -->
-          </div>
-          <!-- Action style box -->
-        </div>
-        <!-- Container end -->
-      </section>
-      <!-- Action end -->
-
       <section id="ts-features" class="ts-features">
         <div class="container">
           <div class="row">
@@ -369,7 +342,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="1789">0</span>
+                    <span class="counterUp" data-count="500">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Total Projects</h3>
                 </div>
@@ -386,7 +359,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="647">0</span>
+                    <span class="counterUp" data-count="5">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Staff Members</h3>
                 </div>
@@ -403,7 +376,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="4000">0</span>
+                    <span class="counterUp" data-count="2000">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Hours of Work</h3>
                 </div>
@@ -420,7 +393,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="44">0</span>
+                    <span class="counterUp" data-count="2">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Countries Experience</h3>
                 </div>
