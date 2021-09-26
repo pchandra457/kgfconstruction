@@ -12,9 +12,8 @@
                   alt="Kgfconstruction"
                 />
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do eiusmod tempor inci done idunt ut labore et dolore magna
-                  aliqua.
+                We are a fast growing & well respected construction company that is involved in a full range 
+                of Engineering, Construction activity like Industrial, Commercial, Residential.
                 </p>
                 <div class="footer-social">
                   <ul>
@@ -53,10 +52,9 @@
                   Contact form.
                   <br /><br />
                   Monday - Friday:
-                  <span class="text-right">9:00 - 18:00 </span> <br />
-                  Saturday: <span class="text-right">12:00 - 18:00</span> <br />
-                  Sunday and holidays:
-                  <span class="text-right">09:00 - 12:00</span>
+                  <span class="text-right">10:00 - 18:00 </span> <br />
+                  Saturday: <span class="text-right">10:00 - 15:00</span> <br />
+                  Sunday and holidays
                 </div>
               </div>
               <!-- Col end -->
@@ -64,15 +62,11 @@
               <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
                 <h3 class="widget-title">Services</h3>
                 <ul class="list-arrow">
-                  <li><a>Pre-Construction</a></li>
-                  <li><a>General Contracting</a></li>
-                  <li>
-                    <a>Construction Management</a>
-                  </li>
-                  <li><a>Design and Build</a></li>
-                  <li>
-                    <a>Self-Perform Construction</a>
-                  </li>
+                  <li><a>Pre-Construction Work</a></li>
+                  <li><a>Complete Construction Work</a></li>
+                  <li><a>Complete Exterior/Interior Work</a></li>
+                  <li><a>Structure Design</a></li>
+                  <li><a>Planning by COA (Architects)</a></li>
                 </ul>
               </div>
               <!-- Col end -->

@@ -43,7 +43,7 @@
       <div
         id="banner-area"
         class="banner-area"
-        style="background-image: url(images/banner/banner1.jpg)"
+        style="background-image: url(images/banner/main-banner.png)"
       >
         <div class="banner-text">
           <div class="container">
@@ -54,7 +54,6 @@
                   <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center">
                       <li class="breadcrumb-item"><a href="#">Home</a></li>
-                      <li class="breadcrumb-item"><a href="#">Services</a></li>
                       <li class="breadcrumb-item active" aria-current="page">
                         All Services
                       </li>
@@ -75,13 +74,13 @@
       <section id="main-container" class="main-container pb-2">
         <div class="container">
           <div class="row">
-            <div class="col-lg-4 col-md-6 mb-5">
+            <div class="col-lg-4 col-md-6">
               <div class="ts-service-box">
                 <div class="ts-service-image-wrapper">
                   <img
                     loading="lazy"
                     class="w-100"
-                    src="images/services/service1.jpg"
+                    src="images/services/home-const.jpg"
                     alt="service-image"
                   />
                 </div>
@@ -93,35 +92,29 @@
                       alt="service-icon"
                     />
                   </div>
-                  <div class="ts-service-info">
-                    <h3 class="service-box-title">
-                      <a href="service-single.html">Zero Harm Everyday</a>
-                    </h3>
-                    <p>
-                      You have ideas, goals, and dreams. We have a culturally
-                      diverse, forward thinking team looking for talent like.
-                      Lorem ipsum dolor suscipit.
-                    </p>
-                    <!-- <a
-                      class="learn-more d-inline-block"
-                      href="service-single.html"
-                      aria-label="service-details"
-                      ><i class="fa fa-caret-right"></i> Learn more</a
-                    > -->
-                  </div>
+                  <div class="ts-service-box-info">
+                  <h3 class="service-box-title">
+                    <a href="#">Home Construction</a>
+                  </h3>
+                  <p>
+                  We are well experienced in aspect of construction, such as framing houses, 
+                  installing sheathing and subfloors, building foundations, roofing, 
+                  doors and windows.
+                  </p>
+                </div>
                 </div>
               </div>
               <!-- Service1 end -->
             </div>
             <!-- Col 1 end -->
 
-            <div class="col-lg-4 col-md-6 mb-5">
+            <div class="col-lg-4 col-md-6">
               <div class="ts-service-box">
                 <div class="ts-service-image-wrapper">
                   <img
                     loading="lazy"
                     class="w-100"
-                    src="images/services/service2.jpg"
+                    src="images/services/remodel.jpg"
                     alt="service-image"
                   />
                 </div>
@@ -133,35 +126,28 @@
                       alt="service-icon"
                     />
                   </div>
-                  <div class="ts-service-info">
-                    <h3 class="service-box-title">
-                      <a href="service-single.html">Virtual Construction</a>
-                    </h3>
-                    <p>
-                      You have ideas, goals, and dreams. We have a culturally
-                      diverse, forward thinking team looking for talent like.
-                      Lorem ipsum dolor suscipit.
-                    </p>
-                    <!-- <a
-                      class="learn-more d-inline-block"
-                      href="service-single.html"
-                      aria-label="service-details"
-                      ><i class="fa fa-caret-right"></i> Learn more</a
-                    > -->
-                  </div>
+                  <div class="ts-service-box-info">
+                  <h3 class="service-box-title">
+                    <a href="#">Building Remodels</a>
+                  </h3>
+                  <p>
+                  We are well experienced in Building Remodeling, remodeling refers to the process of improving or modernising 
+                  an old, damaged or defective building.
+                  </p>
+                </div>
                 </div>
               </div>
               <!-- Service2 end -->
             </div>
             <!-- Col 2 end -->
 
-            <div class="col-lg-4 col-md-6 mb-5">
+            <div class="col-lg-4 col-md-6">
               <div class="ts-service-box">
                 <div class="ts-service-image-wrapper">
                   <img
                     loading="lazy"
                     class="w-100"
-                    src="images/services/service3.jpg"
+                    src="images/services/exterior.webp"
                     alt="service-image"
                   />
                 </div>
@@ -173,35 +159,28 @@
                       alt="service-icon"
                     />
                   </div>
-                  <div class="ts-service-info">
-                    <h3 class="service-box-title">
-                      <a href="service-single.html">Build To Last</a>
-                    </h3>
-                    <p>
-                      You have ideas, goals, and dreams. We have a culturally
-                      diverse, forward thinking team looking for talent like.
-                      Lorem ipsum dolor suscipit.
-                    </p>
-                    <!-- <a
-                      class="learn-more d-inline-block"
-                      href="service-single.html"
-                      aria-label="service-details"
-                      ><i class="fa fa-caret-right"></i> Learn more</a
-                    > -->
-                  </div>
+                  <div class="ts-service-box-info">
+                  <h3 class="service-box-title">
+                    <a href="#">Exterior Design</a>
+                  </h3>
+                  <p>
+                  We are well experienced and creative exterior designers, who produce ideas 
+                  to make your outdoor design unique, practical.
+                  </p>
+                </div>
                 </div>
               </div>
               <!-- Service3 end -->
             </div>
             <!-- Col 3 end -->
 
-            <div class="col-lg-4 col-md-6 mb-5">
+            <div class="col-lg-4 col-md-6">
               <div class="ts-service-box">
                 <div class="ts-service-image-wrapper">
                   <img
                     loading="lazy"
                     class="w-100"
-                    src="images/services/service4.jpg"
+                    src="images/services/interior.jpg"
                     alt="service-image"
                   />
                 </div>
@@ -213,35 +192,28 @@
                       alt="service-icon"
                     />
                   </div>
-                  <div class="ts-service-info">
-                    <h3 class="service-box-title">
-                      <a href="service-single.html">EXTERIOR DESIGN</a>
-                    </h3>
-                    <p>
-                      You have ideas, goals, and dreams. We have a culturally
-                      diverse, forward thinking team looking for talent like.
-                      Lorem ipsum dolor suscipit.
-                    </p>
-                    <!-- <a
-                      class="learn-more d-inline-block"
-                      href="service-single.html"
-                      aria-label="service-details"
-                      ><i class="fa fa-caret-right"></i> Learn more</a
-                    > -->
-                  </div>
+                  <div class="ts-service-box-info">
+                  <h3 class="service-box-title">
+                    <a href="#">Interior Design</a>
+                  </h3>
+                  <p>
+                  We are well experienced and creative interior designers and dedicated project coordinators
+                   to provide you with the best advice and service.
+                  </p>
+                </div>
                 </div>
               </div>
               <!-- Service1 end -->
             </div>
             <!-- Col 4 end -->
 
-            <div class="col-lg-4 col-md-6 mb-5">
+            <div class="col-lg-4 col-md-6">
               <div class="ts-service-box">
                 <div class="ts-service-image-wrapper">
                   <img
                     loading="lazy"
                     class="w-100"
-                    src="images/services/service5.jpg"
+                    src="images/services/renovation.jpg"
                     alt="service-image"
                   />
                 </div>
@@ -253,35 +225,25 @@
                       alt="service-icon"
                     />
                   </div>
-                  <div class="ts-service-info">
-                    <h3 class="service-box-title">
-                      <a href="service-single.html">RENOVATION</a>
-                    </h3>
-                    <p>
-                      You have ideas, goals, and dreams. We have a culturally
-                      diverse, forward thinking team looking for talent like.
-                      Lorem ipsum dolor suscipit.
-                    </p>
-                    <!-- <a
-                      class="learn-more d-inline-block"
-                      href="service-single.html"
-                      aria-label="service-details"
-                      ><i class="fa fa-caret-right"></i> Learn more</a
-                    > -->
-                  </div>
+                  <div class="ts-service-box-info">
+                  <h3 class="service-box-title"><a href="#">Renovation</a></h3>
+                  <p>
+                  We are well experienced in renovation process. we are improving a broken, damaged, or outdated structure.
+                  </p>
+                </div>
                 </div>
               </div>
               <!-- Service2 end -->
             </div>
             <!-- Col 5 end -->
 
-            <div class="col-lg-4 col-md-6 mb-5">
+            <div class="col-lg-4 col-md-6">
               <div class="ts-service-box">
                 <div class="ts-service-image-wrapper">
                   <img
                     loading="lazy"
                     class="w-100"
-                    src="images/services/service6.jpg"
+                    src="images/services/safety-management.jpg"
                     alt="service-image"
                   />
                 </div>
@@ -293,22 +255,15 @@
                       alt="service-icon"
                     />
                   </div>
-                  <div class="ts-service-info">
-                    <h3 class="service-box-title">
-                      <a href="service-single.html">SAFETY MANAGEMENT</a>
-                    </h3>
-                    <p>
-                      You have ideas, goals, and dreams. We have a culturally
-                      diverse, forward thinking team looking for talent like.
-                      Lorem ipsum dolor suscipit.
-                    </p>
-                    <!-- <a
-                      class="learn-more d-inline-block"
-                      href="service-single.html"
-                      aria-label="service-details"
-                      ><i class="fa fa-caret-right"></i> Learn more</a
-                    > -->
-                  </div>
+                  <div class="ts-service-box-info">
+                  <h3 class="service-box-title">
+                    <a href="#">Safety Management</a>
+                  </h3>
+                  <p>
+                  We are well experienced in managing business activities and applying principles, framework, processes to help 
+                  prevent accidents, injuries and to minimise other risk.
+                  </p>
+                </div>
                 </div>
               </div>
               <!-- Service3 end -->
@@ -340,11 +295,6 @@
       <!-- shuffle -->
       <script src="plugins/shuffle/shuffle.min.js" defer></script>
 
-      <!-- Google Map API Key-->
-      <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-        defer
-      ></script>
       <!-- Google Map Plugin-->
       <script src="plugins/google-map/map.js" defer></script>
 

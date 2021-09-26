@@ -85,12 +85,12 @@
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="projects.php"
-                          >Projects All</a
+                          >All Projects</a
                         >
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="services.php"
-                          >Services All</a
+                          >All Services</a
                         >
                       </li>
                       <li class="nav-item">

@@ -148,13 +148,12 @@
             <div class="col-lg-6">
               <div class="ts-intro">
                 <h2 class="into-title">About Us</h2>
-                <h3 class="into-sub-title">We deliver landmark projects</h3>
+                <h3 class="into-sub-title">WE PROVIDE CONSTRUCTION & BUILDING SERVICES</h3>
                 <p>
-                  We are rethoric question ran over her cheek When she reached
-                  the first hills of the Italic Mountains, she had a last view
-                  back on the skyline of her hometown Bookmarksgrove, the
-                  headline of Alphabet Village and the subline of her own road,
-                  the Line Lane.
+                We are a fast growing & well respected construction company that is involved 
+                in a full range of Engineering, Construction activity like Industrial, Commercial, 
+                Residential works by turning conception into reality and by highlighting
+                 long term objectives, safety, progress and cost effectiveness, to achieve continual improvements.
                 </p>
               </div>
               <!-- Intro box end -->
@@ -224,11 +223,12 @@
             <!-- Col end -->
 
             <div class="col-lg-6 mt-4 mt-lg-0">
-              <h3 class="into-sub-title">Our Values</h3>
+            <h2 class="into-title">&nbsp;</h2>
+              <h3 class="into-sub-title">Our Policies</h3>
               <p>
-                Minim Austin 3 wolf moon scenester aesthetic, umami odio
-                pariatur bitters. Pop-up occaecat taxidermy street art, tattooed
-                beard literally.
+              Our policy is to ensure that all projects are executed in accordance with contract
+               specifications and drawings, in compliance with all legal requirements thus 
+               providing good value and satisfaction to our client.
               </p>
 
               <div class="accordion accordion-group" id="our-values-accordion">
@@ -255,9 +255,9 @@
                     data-parent="#our-values-accordion"
                   >
                     <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life
-                      accusamus terry richardson ad squid. 3 wolf moon officia
-                      aute, non cupidata
+                    We formulate concepts into reality and by highlighting long term objectives,
+                     safety, progress and cost effectiveness, to achieve continual improvements
+                      for all our on-going and future projects.
                     </div>
                   </div>
                 </div>
@@ -283,9 +283,10 @@
                     data-parent="#our-values-accordion"
                   >
                     <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life
-                      accusamus terry richardson ad squid. 3 wolf moon officia
-                      aute, non cupidata
+                    Customer service is the direct one-on-one interaction between a consumer making
+                     a purchase and a representative of the company that is selling it. 
+                     Most retailers see this direct interaction as a critical factor in ensuring 
+                     buyer satisfaction and encouraging repeat business.
                     </div>
                   </div>
                 </div>
@@ -311,9 +312,10 @@
                     data-parent="#our-values-accordion"
                   >
                     <div class="card-body">
-                      Anim pariatur cliche reprehenderit, enim eiusmod high life
-                      accusamus terry richardson ad squid. 3 wolf moon officia
-                      aute, non cupidata
+                    Integrity is the practice of being honest and showing a consistent and 
+                    uncompromising adherence to strong moral and ethical principles and values. 
+                    In ethics, integrity is regarded as the honesty and truthfulness or accuracy 
+                    of one's actions.
                     </div>
                   </div>
                 </div>
@@ -342,7 +344,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="500">0</span>
+                    <span class="counterUp" data-count="253">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Total Projects</h3>
                 </div>
@@ -359,7 +361,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="5">0</span>
+                    <span class="counterUp" data-count="13">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Staff Members</h3>
                 </div>
@@ -433,13 +435,13 @@
                     <a href="#">Home Construction</a>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    Integer adipiscing erat
+                  We are well experienced in aspect of construction, such as framing houses, 
+                  installing sheathing and subfloors, building foundations, roofing, 
+                  doors and windows.
                   </p>
                 </div>
               </div>
               <!-- Service 1 end -->
-
               <div class="ts-service-box d-flex">
                 <div class="ts-service-box-img">
                   <img
@@ -453,13 +455,34 @@
                     <a href="#">Building Remodels</a>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    Integer adipiscing erat
+                  We are well experienced in Building Remodeling, remodeling refers to the process of improving or modernising 
+                  an old, damaged or defective building.
                   </p>
                 </div>
               </div>
               <!-- Service 2 end -->
-
+            </div>
+            <!-- Col end -->
+            <div class="col-lg-4">
+              <div class="ts-service-box d-flex">
+                <div class="ts-service-box-img">
+                  <img
+                    loading="lazy"
+                    src="images/icon-image/service-icon4.png"
+                    alt="service-icon"
+                  />
+                </div>
+                <div class="ts-service-box-info">
+                  <h3 class="service-box-title">
+                    <a href="#">Exterior Design</a>
+                  </h3>
+                  <p>
+                  We are well experienced and creative exterior designers, who produce ideas 
+                  to make your outdoor design unique, practical.
+                  </p>
+                </div>
+              </div>
+              <!-- Service 3 end -->
               <div class="ts-service-box d-flex">
                 <div class="ts-service-box-img">
                   <img
@@ -478,41 +501,10 @@
                   </p>
                 </div>
               </div>
-              <!-- Service 3 end -->
-            </div>
-            <!-- Col end -->
-
-            <div class="col-lg-4 text-center">
-              <img
-                loading="lazy"
-                class="img-fluid"
-                src="images/services/service-center.jpg"
-                alt="service-avater-image"
-              />
-            </div>
-            <!-- Col end -->
-
-            <div class="col-lg-4 mt-5 mt-lg-0 mb-4 mb-lg-0">
-              <div class="ts-service-box d-flex">
-                <div class="ts-service-box-img">
-                  <img
-                    loading="lazy"
-                    src="images/icon-image/service-icon4.png"
-                    alt="service-icon"
-                  />
-                </div>
-                <div class="ts-service-box-info">
-                  <h3 class="service-box-title">
-                    <a href="#">Exterior Design</a>
-                  </h3>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    Integer adipiscing erat
-                  </p>
-                </div>
-              </div>
               <!-- Service 4 end -->
-
+            </div>
+            <!-- Col end -->
+            <div class="col-lg-4 mt-5 mt-lg-0 mb-4 mb-lg-0">
               <div class="ts-service-box d-flex">
                 <div class="ts-service-box-img">
                   <img
@@ -524,13 +516,11 @@
                 <div class="ts-service-box-info">
                   <h3 class="service-box-title"><a href="#">Renovation</a></h3>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    Integer adipiscing erat
+                  We are well experienced in renovation process. we are improving a broken, damaged, or outdated structure.
                   </p>
                 </div>
               </div>
               <!-- Service 5 end -->
-
               <div class="ts-service-box d-flex">
                 <div class="ts-service-box-img">
                   <img
@@ -544,8 +534,8 @@
                     <a href="#">Safety Management</a>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    Integer adipiscing erat
+                  We are well experienced in managing business activities and applying principles, framework, processes to help 
+                  prevent accidents, injuries and to minimise other risk.
                   </p>
                 </div>
               </div>
@@ -568,394 +558,12 @@
             </div>
           </div>
           <!--/ Title row end -->
-
-          <div class="row">
-            <div class="col-12">
-              <div class="shuffle-btn-group">
-                <label class="active" for="all">
-                  <input
-                    type="radio"
-                    name="shuffle-filter"
-                    id="all"
-                    value="all"
-                    checked="checked"
-                  />Show All
-                </label>
-                <label for="commercial">
-                  <input
-                    type="radio"
-                    name="shuffle-filter"
-                    id="commercial"
-                    value="commercial"
-                  />Commercial
-                </label>
-                <label for="education">
-                  <input
-                    type="radio"
-                    name="shuffle-filter"
-                    id="education"
-                    value="education"
-                  />Education
-                </label>
-                <label for="government">
-                  <input
-                    type="radio"
-                    name="shuffle-filter"
-                    id="government"
-                    value="government"
-                  />Government
-                </label>
-                <label for="infrastructure">
-                  <input
-                    type="radio"
-                    name="shuffle-filter"
-                    id="infrastructure"
-                    value="infrastructure"
-                  />Infrastructure
-                </label>
-                <label for="residential">
-                  <input
-                    type="radio"
-                    name="shuffle-filter"
-                    id="residential"
-                    value="residential"
-                  />Residential
-                </label>
-                <label for="healthcare">
-                  <input
-                    type="radio"
-                    name="shuffle-filter"
-                    id="healthcare"
-                    value="healthcare"
-                  />Healthcare
-                </label>
-              </div>
-              <!-- project filter end -->
-
-              <div class="row shuffle-wrapper">
-                <div class="col-1 shuffle-sizer"></div>
-
-                <div
-                  class="col-lg-4 col-sm-6 shuffle-item"
-                  data-groups='["government","healthcare"]'
-                >
-                  <div class="project-img-container">
-                    <a
-                      class="gallery-popup"
-                      href="images/projects/project1.jpg"
-                      aria-label="project-img"
-                    >
-                      <img
-                        class="img-fluid"
-                        src="images/projects/project1.jpg"
-                        alt="project-img"
-                      />
-                      <span class="gallery-icon"
-                        ><i class="fa fa-plus"></i
-                      ></span>
-                    </a>
-                    <div class="project-item-info">
-                      <div class="project-item-info-content">
-                        <h3 class="project-item-title">
-                          <a href="projects-single.html"
-                            >Capital Teltway Building</a
-                          >
-                        </h3>
-                        <p class="project-cat">Commercial, Interiors</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- shuffle item 1 end -->
-
-                <div
-                  class="col-lg-4 col-sm-6 shuffle-item"
-                  data-groups='["healthcare"]'
-                >
-                  <div class="project-img-container">
-                    <a
-                      class="gallery-popup"
-                      href="images/projects/project2.jpg"
-                      aria-label="project-img"
-                    >
-                      <img
-                        class="img-fluid"
-                        src="images/projects/project2.jpg"
-                        alt="project-img"
-                      />
-                      <span class="gallery-icon"
-                        ><i class="fa fa-plus"></i
-                      ></span>
-                    </a>
-                    <div class="project-item-info">
-                      <div class="project-item-info-content">
-                        <h3 class="project-item-title">
-                          <a href="projects-single.html">Ghum Touch Hospital</a>
-                        </h3>
-                        <p class="project-cat">Healthcare</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- shuffle item 2 end -->
-
-                <div
-                  class="col-lg-4 col-sm-6 shuffle-item"
-                  data-groups='["infrastructure","commercial"]'
-                >
-                  <div class="project-img-container">
-                    <a
-                      class="gallery-popup"
-                      href="images/projects/project3.jpg"
-                      aria-label="project-img"
-                    >
-                      <img
-                        class="img-fluid"
-                        src="images/projects/project3.jpg"
-                        alt="project-img"
-                      />
-                      <span class="gallery-icon"
-                        ><i class="fa fa-plus"></i
-                      ></span>
-                    </a>
-                    <div class="project-item-info">
-                      <div class="project-item-info-content">
-                        <h3 class="project-item-title">
-                          <a href="projects-single.html">TNT East Facility</a>
-                        </h3>
-                        <p class="project-cat">Government</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- shuffle item 3 end -->
-
-                <div
-                  class="col-lg-4 col-sm-6 shuffle-item"
-                  data-groups='["education","infrastructure"]'
-                >
-                  <div class="project-img-container">
-                    <a
-                      class="gallery-popup"
-                      href="images/projects/project4.jpg"
-                      aria-label="project-img"
-                    >
-                      <img
-                        class="img-fluid"
-                        src="images/projects/project4.jpg"
-                        alt="project-img"
-                      />
-                      <span class="gallery-icon"
-                        ><i class="fa fa-plus"></i
-                      ></span>
-                    </a>
-                    <div class="project-item-info">
-                      <div class="project-item-info-content">
-                        <h3 class="project-item-title">
-                          <a href="projects-single.html"
-                            >Narriot Headquarters</a
-                          >
-                        </h3>
-                        <p class="project-cat">Infrastructure</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- shuffle item 4 end -->
-
-                <div
-                  class="col-lg-4 col-sm-6 shuffle-item"
-                  data-groups='["infrastructure","education"]'
-                >
-                  <div class="project-img-container">
-                    <a
-                      class="gallery-popup"
-                      href="images/projects/project5.jpg"
-                      aria-label="project-img"
-                    >
-                      <img
-                        class="img-fluid"
-                        src="images/projects/project5.jpg"
-                        alt="project-img"
-                      />
-                      <span class="gallery-icon"
-                        ><i class="fa fa-plus"></i
-                      ></span>
-                    </a>
-                    <div class="project-item-info">
-                      <div class="project-item-info-content">
-                        <h3 class="project-item-title">
-                          <a href="projects-single.html">Kalas Metrorail</a>
-                        </h3>
-                        <p class="project-cat">Infrastructure</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- shuffle item 5 end -->
-
-                <div
-                  class="col-lg-4 col-sm-6 shuffle-item"
-                  data-groups='["residential"]'
-                >
-                  <div class="project-img-container">
-                    <a
-                      class="gallery-popup"
-                      href="images/projects/project6.jpg"
-                      aria-label="project-img"
-                    >
-                      <img
-                        class="img-fluid"
-                        src="images/projects/project6.jpg"
-                        alt="project-img"
-                      />
-                      <span class="gallery-icon"
-                        ><i class="fa fa-plus"></i
-                      ></span>
-                    </a>
-                    <div class="project-item-info">
-                      <div class="project-item-info-content">
-                        <h3 class="project-item-title">
-                          <a href="projects-single.html"
-                            >Ancraft Avenue House</a
-                          >
-                        </h3>
-                        <p class="project-cat">Residential</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- shuffle item 6 end -->
-              </div>
-              <!-- shuffle end -->
-            </div>
-
-            <div class="col-12">
-              <div class="general-btn text-center">
-                <a class="btn btn-primary" href="projects.php"
-                  >View All Projects</a
-                >
-              </div>
-            </div>
-          </div>
+          <?php include 'project-details.php';?>
           <!-- Content row end -->
         </div>
         <!--/ Container end -->
       </section>
       <!-- Project area end -->
-
-      <section id="news" class="news">
-        <div class="container">
-          <div class="row text-center">
-            <div class="col-12">
-              <h2 class="section-title">Work of Excellence</h2>
-              <h3 class="section-sub-title">Recent Projects</h3>
-            </div>
-          </div>
-          <!--/ Title row end -->
-
-          <div class="row">
-            <div class="col-lg-4 col-md-6 mb-4">
-              <div class="latest-post">
-                <div class="latest-post-media">
-                  <a href="news-single.html" class="latest-post-img">
-                    <img
-                      loading="lazy"
-                      class="img-fluid"
-                      src="images/news/news1.jpg"
-                      alt="img"
-                    />
-                  </a>
-                </div>
-                <div class="post-body">
-                  <h4 class="post-title">
-                    <a href="news-single.html" class="d-inline-block"
-                      >We Just Completes $17.6 million Medical Clinic in
-                      Mid-Missouri</a
-                    >
-                  </h4>
-                  <div class="latest-post-meta">
-                    <span class="post-item-date">
-                      <i class="fa fa-clock-o"></i> July 20, 2017
-                    </span>
-                  </div>
-                </div>
-              </div>
-              <!-- Latest post end -->
-            </div>
-            <!-- 1st post col end -->
-
-            <div class="col-lg-4 col-md-6 mb-4">
-              <div class="latest-post">
-                <div class="latest-post-media">
-                  <a href="news-single.html" class="latest-post-img">
-                    <img
-                      loading="lazy"
-                      class="img-fluid"
-                      src="images/news/news2.jpg"
-                      alt="img"
-                    />
-                  </a>
-                </div>
-                <div class="post-body">
-                  <h4 class="post-title">
-                    <a href="news-single.html" class="d-inline-block"
-                      >Thandler Airport Water Reclamation Facility Expansion
-                      Project Named</a
-                    >
-                  </h4>
-                  <div class="latest-post-meta">
-                    <span class="post-item-date">
-                      <i class="fa fa-clock-o"></i> June 17, 2017
-                    </span>
-                  </div>
-                </div>
-              </div>
-              <!-- Latest post end -->
-            </div>
-            <!-- 2nd post col end -->
-
-            <div class="col-lg-4 col-md-6 mb-4">
-              <div class="latest-post">
-                <div class="latest-post-media">
-                  <a href="news-single.html" class="latest-post-img">
-                    <img
-                      loading="lazy"
-                      class="img-fluid"
-                      src="images/news/news3.jpg"
-                      alt="img"
-                    />
-                  </a>
-                </div>
-                <div class="post-body">
-                  <h4 class="post-title">
-                    <a href="news-single.html" class="d-inline-block"
-                      >Silicon Bench and Cornike Begin Construction Solar
-                      Facilities</a
-                    >
-                  </h4>
-                  <div class="latest-post-meta">
-                    <span class="post-item-date">
-                      <i class="fa fa-clock-o"></i> Aug 13, 2017
-                    </span>
-                  </div>
-                </div>
-              </div>
-              <!-- Latest post end -->
-            </div>
-            <!-- 3rd post col end -->
-          </div>
-          <!--/ Content row end -->
-
-          <div class="general-btn text-center mt-4">
-            <a class="btn btn-primary" href="news-left-sidebar.html"
-              >See All Posts</a
-            >
-          </div>
-        </div>
-        <!--/ Container end -->
-      </section>
-      <!--/ News end -->
 
       <!-- Footer start -->
       <?php include 'footer.php';?>

@@ -43,7 +43,7 @@
       <div
         id="banner-area"
         class="banner-area"
-        style="background-image: url(images/banner/banner1.jpg)"
+        style="background-image: url(images/banner/main-banner.png)"
       >
         <div class="banner-text">
           <div class="container">
@@ -54,7 +54,6 @@
                   <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center">
                       <li class="breadcrumb-item"><a href="#">Home</a></li>
-                      <li class="breadcrumb-item"><a href="#">Company</a></li>
                       <li class="breadcrumb-item active" aria-current="page">
                         Contact Us
                       </li>

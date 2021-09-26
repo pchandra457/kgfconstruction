@@ -43,7 +43,7 @@
       <div
         id="banner-area"
         class="banner-area"
-        style="background-image: url(images/banner/banner1.jpg)"
+        style="background-image: url(images/banner/main-banner.png)"
       >
         <div class="banner-text">
           <div class="container">
@@ -54,7 +54,6 @@
                   <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center">
                       <li class="breadcrumb-item"><a href="#">Home</a></li>
-                      <li class="breadcrumb-item"><a href="#">company</a></li>
                       <li class="breadcrumb-item active" aria-current="page">
                         About Us
                       </li>
@@ -120,7 +119,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="500">0</span>
+                    <span class="counterUp" data-count="253">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Total Projects</h3>
                 </div>
@@ -137,7 +136,7 @@
                 </div>
                 <div class="ts-facts-content">
                   <h2 class="ts-facts-num">
-                    <span class="counterUp" data-count="5">0</span>
+                    <span class="counterUp" data-count="13">0</span>
                   </h2>
                   <h3 class="ts-facts-title">Staff Members</h3>
                 </div>
@@ -205,19 +204,15 @@
                       <img
                         loading="lazy"
                         class="w-100"
-                        src="images/team/team1.jpg"
+                        src="images/team/neel.jpeg"
                         alt="team-img"
                       />
                     </div>
                     <div class="ts-team-content">
-                      <h3 class="ts-name">Nats Stenman</h3>
-                      <p class="ts-designation">Chief Operating Officer</p>
-                      <p class="ts-description">
-                        Nats Stenman began his career in construction with boots
-                        on the ground
-                      </p>
+                      <h3 class="ts-name">Neeladri Biswas</h3>
+                      <p class="ts-designation">Chief Executive officer</p>
                       <div class="team-social-icons">
-                        <a target="_blank" href="#"
+                        <a target="_blank" href="https://www.facebook.com/neel.biswas.7165"
                           ><i class="fab fa-facebook-f"></i
                         ></a>
                         <a target="_blank" href="#"
@@ -243,17 +238,13 @@
                       <img
                         loading="lazy"
                         class="w-100"
-                        src="images/team/team2.jpg"
+                        src="images/team/annu.jpeg"
                         alt="team-img"
                       />
                     </div>
                     <div class="ts-team-content">
-                      <h3 class="ts-name">Angela Lyouer</h3>
-                      <p class="ts-designation">Innovation Officer</p>
-                      <p class="ts-description">
-                        Nats Stenman began his career in construction with boots
-                        on the ground
-                      </p>
+                      <h3 class="ts-name">Anushka Bharti</h3>
+                      <p class="ts-designation">Designer</p>
                       <div class="team-social-icons">
                         <a target="_blank" href="#"
                           ><i class="fab fa-facebook-f"></i
@@ -271,152 +262,6 @@
                   <!--/ Team wrapper end -->
                 </div>
                 <!-- Team 2 end -->
-
-                <div class="item">
-                  <div class="ts-team-wrapper">
-                    <div class="team-img-wrapper">
-                      <img
-                        loading="lazy"
-                        class="w-100"
-                        src="images/team/team3.jpg"
-                        alt="team-img"
-                      />
-                    </div>
-                    <div class="ts-team-content">
-                      <h3 class="ts-name">Mark Conter</h3>
-                      <p class="ts-designation">Safety Officer</p>
-                      <p class="ts-description">
-                        Nats Stenman began his career in construction with boots
-                        on the ground
-                      </p>
-                      <div class="team-social-icons">
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-twitter"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-google-plus"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-linkedin"></i
-                        ></a>
-                      </div>
-                      <!--/ social-icons-->
-                    </div>
-                  </div>
-                  <!--/ Team wrapper end -->
-                </div>
-                <!-- Team 3 end -->
-
-                <div class="item">
-                  <div class="ts-team-wrapper">
-                    <div class="team-img-wrapper">
-                      <img
-                        loading="lazy"
-                        class="w-100"
-                        src="images/team/team4.jpg"
-                        alt="team-img"
-                      />
-                    </div>
-                    <div class="ts-team-content">
-                      <h3 class="ts-name">Ayesha Stewart</h3>
-                      <p class="ts-designation">Finance Officer</p>
-                      <p class="ts-description">
-                        Nats Stenman began his career in construction with boots
-                        on the ground
-                      </p>
-                      <div class="team-social-icons">
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-facebook-f"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-twitter"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-google-plus"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-linkedin"></i
-                        ></a>
-                      </div>
-                      <!--/ social-icons-->
-                    </div>
-                  </div>
-                  <!--/ Team wrapper end -->
-                </div>
-                <!-- Team 4 end -->
-
-                <div class="item">
-                  <div class="ts-team-wrapper">
-                    <div class="team-img-wrapper">
-                      <img
-                        loading="lazy"
-                        class="w-100"
-                        src="images/team/team5.jpg"
-                        alt="team-img"
-                      />
-                    </div>
-                    <div class="ts-team-content">
-                      <h3 class="ts-name">Dave Clarkte</h3>
-                      <p class="ts-designation">Civil Engineer</p>
-                      <p class="ts-description">
-                        Nats Stenman began his career in construction with boots
-                        on the ground
-                      </p>
-                      <div class="team-social-icons">
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-twitter"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-google-plus"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-linkedin"></i
-                        ></a>
-                      </div>
-                      <!--/ social-icons-->
-                    </div>
-                  </div>
-                  <!--/ Team wrapper end -->
-                </div>
-                <!-- Team 5 end -->
-
-                <div class="item">
-                  <div class="ts-team-wrapper">
-                    <div class="team-img-wrapper">
-                      <img
-                        loading="lazy"
-                        class="w-100"
-                        src="images/team/team6.jpg"
-                        alt="team-img"
-                      />
-                    </div>
-                    <div class="ts-team-content">
-                      <h3 class="ts-name">Elton Joe</h3>
-                      <p class="ts-designation">Site Supervisor</p>
-                      <p class="ts-description">
-                        Nats Stenman began his career in construction with boots
-                        on the ground
-                      </p>
-                      <div class="team-social-icons">
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-facebook-f"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-twitter"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-google-plus"></i
-                        ></a>
-                        <a target="_blank" href="#"
-                          ><i class="fab fa-linkedin"></i
-                        ></a>
-                      </div>
-                      <!--/ social-icons-->
-                    </div>
-                  </div>
-                  <!--/ Team wrapper end -->
-                </div>
-                <!-- Team 6 end -->
               </div>
               <!-- Team slide end -->
             </div>

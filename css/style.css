@@ -1,8 +1,7 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
 
-Template Name: Constra - Construction Html5 Template
-Description: Constra - Construction Html5 Template
+Project Name: KGF Construction - Plan better build better with our honesty & dedication.
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
@@ -131,7 +130,7 @@ a.read-more:hover {
 
 section,
 .section-padding {
-  padding: 70px 0;
+  padding: 50px 0;
   position: relative;
 }
 
@@ -289,7 +288,7 @@ a:focus {
   font-weight: 900;
   font-size: 36px;
   line-height: 46px;
-  margin: 0 0 60px;
+  margin: 0 0 40px;
   color: #212121;
 }
 
