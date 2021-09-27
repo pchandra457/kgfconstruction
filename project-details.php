@@ -73,7 +73,7 @@
             </div>
           </div><!-- shuffle item 3 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;commercial&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;residential&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
                 <img class="img-fluid" src="images/projects/project3.jpg" alt="project-image">
@@ -82,9 +82,9 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a>Narriot Headquarters</a>
+                    <a>DP. Yadav House</a>
                   </h3>
-                  <p class="project-cat">Commercial</p>
+                  <p class="project-cat">Residential</p>
                 </div>
               </div>
             </div>
@@ -133,6 +133,54 @@
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
                     <a>Rafel Niwas</a>
+                  </h3>
+                  <p class="project-cat">Residential</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;residential&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="images/projects/project4.jpg">
+                <img class="img-fluid" src="images/projects/project4.jpg" alt="project-image">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a>Corner Cottage</a>
+                  </h3>
+                  <p class="project-cat">Residential</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;residential&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="images/projects/project5.jpg">
+                <img class="img-fluid" src="images/projects/project5.jpg" alt="project-image">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a>Meadow View</a>
+                  </h3>
+                  <p class="project-cat">Residential</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;residential&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="images/projects/project6.jpg">
+                <img class="img-fluid" src="images/projects/project6.jpg" alt="project-image">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a>Woodside</a>
                   </h3>
                   <p class="project-cat">Residential</p>
                 </div>

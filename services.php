@@ -97,9 +97,8 @@
                     <a href="#">Home Construction</a>
                   </h3>
                   <p>
-                  We are well experienced in aspect of construction, such as framing houses, 
-                  installing sheathing and subfloors, building foundations, roofing, 
-                  doors and windows.
+                  Built your dream home with our experienced team. Kgfconstruction is your one stop 
+                  solution for your dream home because we will transform your dream into reality.
                   </p>
                 </div>
                 </div>
@@ -131,8 +130,8 @@
                     <a href="#">Building Remodels</a>
                   </h3>
                   <p>
-                  We are well experienced in Building Remodeling, remodeling refers to the process of improving or modernising 
-                  an old, damaged or defective building.
+                  We are well experienced in building remodeling, we can renovate your old 
+                  home with a complete new makeover.
                   </p>
                 </div>
                 </div>
@@ -197,8 +196,8 @@
                     <a href="#">Interior Design</a>
                   </h3>
                   <p>
-                  We are well experienced and creative interior designers and dedicated project coordinators
-                   to provide you with the best advice and service.
+                  We provide glamorous look to your house with our exotic interior design like false ceiling, 
+                  modular kitchen, modular furniture, pooja space, wall cladding, flooring works.
                   </p>
                 </div>
                 </div>
