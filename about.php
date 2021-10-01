@@ -78,7 +78,7 @@
               <h3 class="column-title">Who We Are</h3>
               <p>
                 KGF Construction has been a multi - service construction firm since its inception in 2017. Led by, 
-                <b>Ar. Neeladri Biswas </b> & his team this firm deals in the fields of construction, interiors, exterior, landscape.
+                <b> Neeladri Biswas </b> & his team this firm deals in the fields of construction, interiors, exterior, landscape.
               </p>
               <blockquote>
                 <p>
