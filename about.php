@@ -99,6 +99,21 @@
             </div>
             <!-- Col end -->
           </div>
+          <div class="row">
+            <div class="col-lg-6 mt-5 mt-lg-0">
+              <video style="width: 100%; height: auto;" controls="controls" preload="metadata">
+                  <source src="video/home-view.mp4" type="video/mp4">
+              </video>
+            </div>
+            
+            <!-- Col end -->
+            <div class="col-lg-6 mt-5 mt-lg-0">
+              <video style="width: 100%; height: auto;" controls="controls" preload="metadata">
+                  <source src="video/about-kgf.mp4" type="video/mp4">
+              </video>
+            </div>
+            <!-- Col end -->
+          </div>
           <!-- Content row end -->
         </div>
         <!-- Container end -->
