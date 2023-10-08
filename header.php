@@ -24,7 +24,7 @@
                         <div class="info-box-content">
                           <p class="info-box-title">Call Us</p>
                           <p class="info-box-subtitle">
-                            <a href="tel:(+91) 9905731852">(+91) 9905731852/9472061960</a>
+                            <a href="tel:(+91) 9905731852">(+91) 9905731852 / 9472061960</a>
                           </p>
                         </div>
                       </div>
