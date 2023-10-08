@@ -85,16 +85,18 @@
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="projects.php"
-                          >All Projects</a
-                        >
+                          >All Projects</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="services.php"
-                          >All Services</a
-                        >
+                          >All Services</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contact</a>
+                      </li>
+                        </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="kng-assoc.php">K&G Associate</a>
                       </li>
                     </ul>
                   </div>
